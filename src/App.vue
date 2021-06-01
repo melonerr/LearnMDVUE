@@ -13,4 +13,5 @@ export default {
 #app {
   font-family: Roboto, Helvetica, Arial, sans-serif;
 }
+/* ad */
 </style>
