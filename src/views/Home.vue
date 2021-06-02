@@ -31,6 +31,18 @@
     <h1>Progress</h1>
   </div>
   <Progress />
+  <div class="container mb-3">
+    <h1>Tooltips</h1>
+  </div>
+  <Tooltips />
+  <div class="container mb-3">
+    <h1>Masks</h1>
+  </div>
+  <Masks />
+  <div class="container mb-3">
+    <h1>Validatio</h1>
+  </div>
+  <FormValidation />
   <Footer />
 </template>
 
@@ -46,7 +58,11 @@ import Btn from "@/components/Btn.vue";
 import Cardimg from "@/components/Cardimg.vue";
 import Popovers from "@/components/Popovers.vue";
 import Progress from "@/components/Progress.vue";
+import Tooltips from "@/components/Tooltips.vue";
+import Masks from "@/components/Masks.vue";
+import FormValidation from "@/components/FormValidation.vue";
 import Footer from "@/components/Footer.vue";
+
 export default {
   name: "Home",
   components: {
@@ -61,10 +77,16 @@ export default {
     Cardimg,
     Popovers,
     Progress,
+    Tooltips,
+    Masks,
+    FormValidation,
   },
 };
 </script>
 <style>
+.pointer {
+  cursor: pointer;
+}
 /* margin top */
 .m-t-0 {
   margin-top: 0rem !important;

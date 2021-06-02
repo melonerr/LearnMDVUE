@@ -125,6 +125,6 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 .bg-gray{
-  background-color: #616161;
+  background-color: 616161;
 }
 </style>

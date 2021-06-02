@@ -62,7 +62,7 @@
       <MDBBtn
         tag="a"
         color="primary"
-        href="#!"
+        href="!"
         style="background-color: rgb(59, 89, 152);"
       >
         <MDBIcon iconStyle="fab" icon="facebook-f"></MDBIcon>
@@ -70,7 +70,7 @@
       <MDBBtn
         tag="a"
         color="primary"
-        href="#!"
+        href="!"
         style="background-color: rgb(85, 172, 238);"
       >
         <MDBIcon iconStyle="fab" icon="twitter"></MDBIcon>
@@ -78,7 +78,7 @@
       <MDBBtn
         tag="a"
         color="primary"
-        href="#!"
+        href="!"
         style="background-color: rgb(221, 75, 57);"
       >
         <MDBIcon iconStyle="fab" icon="google"></MDBIcon>
@@ -86,7 +86,7 @@
       <MDBBtn
         tag="a"
         color="primary"
-        href="#!"
+        href="!"
         style="background-color: rgb(172, 43, 172);"
       >
         <MDBIcon iconStyle="fab" icon="instagram"></MDBIcon>
@@ -94,7 +94,7 @@
       <MDBBtn
         tag="a"
         color="primary"
-        href="#!"
+        href="!"
         style="background-color: rgb(0, 130, 202);"
       >
         <MDBIcon iconStyle="fab" icon="linkedin-in"></MDBIcon>
@@ -102,7 +102,7 @@
       <MDBBtn
         tag="a"
         color="primary"
-        href="#!"
+        href="!"
         style="background-color: rgb(198, 17, 24);"
       >
         <MDBIcon iconStyle="fab" icon="pinterest"></MDBIcon>
@@ -110,7 +110,7 @@
       <MDBBtn
         tag="a"
         color="primary"
-        href="#!"
+        href="!"
         style="background-color: rgb(76, 117, 163);"
       >
         <MDBIcon iconStyle="fab" icon="vk"></MDBIcon>
@@ -118,7 +118,7 @@
       <MDBBtn
         tag="a"
         color="primary"
-        href="#!"
+        href="!"
         style="background-color: rgb(255, 172, 68);"
       >
         <MDBIcon iconStyle="fab" icon="stack-overflow"></MDBIcon>
@@ -126,7 +126,7 @@
       <MDBBtn
         tag="a"
         color="primary"
-        href="#!"
+        href="!"
         style="background-color: rgb(237, 48, 47);"
       >
         <MDBIcon iconStyle="fab" icon="youtube"></MDBIcon>
@@ -134,7 +134,7 @@
       <MDBBtn
         tag="a"
         color="primary"
-        href="#!"
+        href="!"
         style="background-color: rgb(72, 20, 73);"
       >
         <MDBIcon iconStyle="fab" icon="slack-hash"></MDBIcon>
@@ -142,7 +142,7 @@
       <MDBBtn
         tag="a"
         color="primary"
-        href="#!"
+        href="!"
         style="background-color: rgb(51, 51, 51);"
       >
         <MDBIcon iconStyle="fab" icon="github"></MDBIcon>
@@ -150,7 +150,7 @@
       <MDBBtn
         tag="a"
         color="primary"
-        href="#!"
+        href="!"
         style="background-color: rgb(236, 74, 137);"
       >
         <MDBIcon iconStyle="fab" icon="dribbble"></MDBIcon>
@@ -158,7 +158,7 @@
       <MDBBtn
         tag="a"
         color="primary"
-        href="#!"
+        href="!"
         style="background-color: rgb(255, 69, 0);"
       >
         <MDBIcon iconStyle="fab" icon="reddit-alien"></MDBIcon>
@@ -166,7 +166,7 @@
       <MDBBtn
         tag="a"
         color="primary"
-        href="#!"
+        href="!"
         style="background-color: rgb(37, 211, 102);"
       >
         <MDBIcon iconStyle="fab" icon="whatsapp"></MDBIcon>
@@ -176,7 +176,7 @@
       <MDBBtn
         tag="a"
         color="primary"
-        href="#!"
+        href="!"
         style="background-color: rgb(85, 172, 238);"
       >
         <MDBIcon iconStyle="fab" icon="twitter" class="me-2"></MDBIcon>Twitter
@@ -184,7 +184,7 @@
       <MDBBtn
         tag="a"
         color="primary"
-        href="#!"
+        href="!"
         floating
         size="lg"
         style="background-color: rgb(172, 43, 172);"
@@ -193,16 +193,16 @@
       </MDBBtn>
     </div>
     <div class="pt-5">
-      <a class="m-1" href="#!" role="button" style="color: rgb(59, 89, 152);">
+      <a class="m-1" href="!" role="button" style="color: rgb(59, 89, 152);">
         <MDBIcon iconStyle="fab" icon="facebook-f" size="lg"></MDBIcon>
       </a>
-      <a class="m-1" href="#!" role="button" style="color: rgb(85, 172, 238);">
+      <a class="m-1" href="!" role="button" style="color: rgb(85, 172, 238);">
         <MDBIcon iconStyle="fab" icon="twitter" size="lg"></MDBIcon>
       </a>
-      <a class="m-1" href="#!" role="button" style="color: rgb(221, 75, 57);">
+      <a class="m-1" href="!" role="button" style="color: rgb(221, 75, 57);">
         <MDBIcon iconStyle="fab" icon="google" size="lg"></MDBIcon>
       </a>
-      <a class="m-1" href="#!" role="button" style="color: rgb(172, 43, 172);">
+      <a class="m-1" href="!" role="button" style="color: rgb(172, 43, 172);">
         <MDBIcon iconStyle="fab" icon="instagram" size="lg"></MDBIcon>
       </a>
     </div>
@@ -210,7 +210,7 @@
       <MDBBtn
         tag="a"
         color="primary"
-        href="#!"
+        href="!"
         style="background-color: rgb(59, 89, 152);"
       >
         <MDBIcon iconStyle="fab" icon="facebook-f"></MDBIcon>
@@ -219,8 +219,8 @@
     </div>
     <div class="pt-5">
       <!-- type -->
-      <MDBBtn tag="a" color="primary" href="#">Link</MDBBtn>
-      <MDBBtn color="primary" href="#" type="submit">Button</MDBBtn>
+      <MDBBtn tag="a" color="primary" href="">Link</MDBBtn>
+      <MDBBtn color="primary" href="" type="submit">Button</MDBBtn>
       <MDBBtn tag="input" color="primary" type="button" value="Input"></MDBBtn>
       <MDBBtn tag="input" color="primary" type="submit" value="Submit"></MDBBtn>
       <MDBBtn tag="input" color="primary" type="reset" value="Reset"></MDBBtn>

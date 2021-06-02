@@ -25,16 +25,16 @@
 
             <ul class="list-unstyled mb-0">
               <li>
-                <a href="#!" class="text-dark">Link 1</a>
+                <a href="!" class="text-dark">Link 1</a>
               </li>
               <li>
-                <a href="#!" class="text-dark">Link 2</a>
+                <a href="!" class="text-dark">Link 2</a>
               </li>
               <li>
-                <a href="#!" class="text-dark">Link 3</a>
+                <a href="!" class="text-dark">Link 3</a>
               </li>
               <li>
-                <a href="#!" class="text-dark">Link 4</a>
+                <a href="!" class="text-dark">Link 4</a>
               </li>
             </ul>
           </MDBCol>
@@ -46,16 +46,16 @@
 
             <ul class="list-unstyled">
               <li>
-                <a href="#!" class="text-dark">Link 1</a>
+                <a href="!" class="text-dark">Link 1</a>
               </li>
               <li>
-                <a href="#!" class="text-dark">Link 2</a>
+                <a href="!" class="text-dark">Link 2</a>
               </li>
               <li>
-                <a href="#!" class="text-dark">Link 3</a>
+                <a href="!" class="text-dark">Link 3</a>
               </li>
               <li>
-                <a href="#!" class="text-dark">Link 4</a>
+                <a href="!" class="text-dark">Link 4</a>
               </li>
             </ul>
           </MDBCol>
