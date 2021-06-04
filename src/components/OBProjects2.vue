@@ -113,6 +113,6 @@ export default {};
   transition-duration: 0.8s;
 }
 .btn:hover {
-  background-color: gray;
+  background-color: rgba(0, 0, 0, 0.8);
 }
 </style>
