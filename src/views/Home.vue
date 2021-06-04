@@ -1,6 +1,7 @@
 <template>
   <Navbar />
   <Carousel />
+  <!-- <Ckeditor /> -->
   <!-- MDB -->
   <MDB />
   <div class="container mb-3">
@@ -43,6 +44,18 @@
     <h1>Validatio</h1>
   </div>
   <FormValidation />
+  <div class="container mb-3">
+    <h1>Iframe</h1>
+  </div>
+  <Iframe />
+  <div class="container mb-3">
+    <h1>Text selection</h1>
+  </div>
+  <Selection />
+  <div class="container mb-3">
+    <h1>Timeline</h1>
+  </div>
+  <Timeline />
   <Footer />
 </template>
 
@@ -61,6 +74,9 @@ import Progress from "@/components/Progress.vue";
 import Tooltips from "@/components/Tooltips.vue";
 import Masks from "@/components/Masks.vue";
 import FormValidation from "@/components/FormValidation.vue";
+import Iframe from "@/components/Iframe.vue";
+import Selection from "@/components/Selection.vue";
+import Timeline from "@/components/Timeline.vue";
 import Footer from "@/components/Footer.vue";
 
 export default {
@@ -80,6 +96,9 @@ export default {
     Tooltips,
     Masks,
     FormValidation,
+    Iframe,
+    Selection,
+    Timeline,
   },
 };
 </script>
