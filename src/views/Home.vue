@@ -56,6 +56,17 @@
     <h1>Timeline</h1>
   </div>
   <Timeline />
+  <div class="container mb-3">
+    <h1>Our best projects</h1>
+  </div>
+  <OBProjects />
+  <OBProjects2 />
+  <OBProjects3 />
+  <div class="container mb-3">
+    <h1>Ascensus</h1>
+  </div>
+  <Ascensus />
+  <Ascensus2 />
   <Footer />
 </template>
 
@@ -77,7 +88,12 @@ import FormValidation from "@/components/FormValidation.vue";
 import Iframe from "@/components/Iframe.vue";
 import Selection from "@/components/Selection.vue";
 import Timeline from "@/components/Timeline.vue";
-import Footer from "@/components/Footer.vue";
+import OBProjects from "@/components/OBProjects.vue";
+import OBProjects2 from "@/components/OBProjects2.vue";
+import OBProjects3 from "@/components/OBProjects3.vue";
+import Ascensus from "@/components/Ascensus.vue";
+import Ascensus2 from "@/components/Ascensus2.vue";
+import Footer from "@/components/Footer2.vue";
 
 export default {
   name: "Home",
@@ -99,6 +115,11 @@ export default {
     Iframe,
     Selection,
     Timeline,
+    OBProjects,
+    OBProjects2,
+    OBProjects3,
+    Ascensus,
+    Ascensus2,
   },
 };
 </script>
