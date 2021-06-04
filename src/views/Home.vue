@@ -67,6 +67,10 @@
   </div>
   <Ascensus />
   <Ascensus2 />
+  <div class="container mb-3">
+    <h1>Price</h1>
+  </div>
+  <Price />
   <Footer />
 </template>
 
@@ -93,6 +97,7 @@ import OBProjects2 from "@/components/OBProjects2.vue";
 import OBProjects3 from "@/components/OBProjects3.vue";
 import Ascensus from "@/components/Ascensus.vue";
 import Ascensus2 from "@/components/Ascensus2.vue";
+import Price from "@/components/Price.vue";
 import Footer from "@/components/Footer2.vue";
 
 export default {
@@ -120,6 +125,7 @@ export default {
     OBProjects3,
     Ascensus,
     Ascensus2,
+    Price,
   },
 };
 </script>
