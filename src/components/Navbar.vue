@@ -1,7 +1,9 @@
 <template>
   <div>
     <!-- Navbar -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-light navbar-top box-shadow">
+    <nav
+      class="navbar navbar-expand-lg navbar-light bg-light navbar-top box-shadow"
+    >
       <!-- Container wrapper -->
       <div class="container-fluid m-nav ">
         <!-- Toggle button -->
@@ -20,24 +22,28 @@
         <!-- Collapsible wrapper -->
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <!-- Navbar brand -->
-          <a class="navbar-brand mt-2 mt-lg-0" href="">
+          <router-link class="navbar-brand mt-2 mt-lg-0" to="/">
             <img
               src="https://mdbootstrap.com/img/logo/mdb-transaprent-noshadows.png"
               height="15"
               alt=""
               loading="lazy"
             />
-          </a>
+          </router-link>
           <!-- Left links -->
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             <li class="nav-item">
-              <a class="nav-link" href="">Dashboard</a>
+              <router-link class="nav-link" to="Dashboard">
+                Dashboard
+              </router-link>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="">Team</a>
+              <router-link class="nav-link" to="Team"> Team </router-link>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="">Projects</a>
+              <router-link class="nav-link" to="Projects">
+                Projects
+              </router-link>
             </li>
           </ul>
           <!-- Left links -->
@@ -135,7 +141,7 @@ export default {
   width: 100%;
   z-index: 9999;
 }
-.m-nav{
+.m-nav {
   margin: 6px 24px;
 }
 .box-shadow {

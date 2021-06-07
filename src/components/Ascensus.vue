@@ -31,8 +31,8 @@
           <!--Image-->
           <div class="view overlay z-depth-1-half">
             <img
-              src="https://mdbootstrap.com/img/Photos/Others/img%20(29).jpg"
               class="img-fluid rounded"
+              src="https://mdbootstrap.com/img/Photos/Others/img%20(29).jpg"
               alt=""
             />
           </div>
